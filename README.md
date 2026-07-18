@@ -109,8 +109,8 @@ During the development of this project, several technical challenges were encoun
 ```
 COVID-19-Dashboard/
 │
-├── COVID-19 Dashboard.pbix
-└── Presentation.pptx
+├── COVID-19_dashboard.pbix.pbix
+└── COVID-19 GLOBAL DASHBOARD.pptx
 ```
 
 ---
