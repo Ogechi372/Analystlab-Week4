@@ -110,8 +110,6 @@ During the development of this project, several technical challenges were encoun
 COVID-19-Dashboard/
 │
 ├── COVID-19 Dashboard.pbix
-├── README.md
-├── complete.png
 └── Presentation.pptx
 ```
 
